@@ -1,4 +1,4 @@
-const fetch = require("node-fetch")
+
 console.log("This is js inside js dir inside public")
 
 // fetch('http://localhost:3000/weather?address=mumbai').then((response) => {
